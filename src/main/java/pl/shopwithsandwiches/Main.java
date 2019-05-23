@@ -1,6 +1,6 @@
-package main.java.pl.methods.shopwithsandwiches;
+package main.java.pl.shopwithsandwiches;
 
-import main.java.pl.methods.Kanapka;
+import main.java.pl.shopwithsandwiches.methods.Kanapka;
 
 public class Main {
     public static void main(String[] args) {

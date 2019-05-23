@@ -1,4 +1,4 @@
-package main.java.pl.methods;
+package main.java.pl.shopwithsandwiches.methods;
 
 public class Kanapka {
     String sklad;// deklaracja zmiennej sklad

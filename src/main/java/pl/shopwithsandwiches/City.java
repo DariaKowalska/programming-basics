@@ -1,4 +1,4 @@
-package main.java.pl.methods.shopwithsandwiches;
+package main.java.pl.shopwithsandwiches;
 
 public enum City {
     POZNAN, KRAKOW, WROCLAW, WARSZAWA
