@@ -108,7 +108,9 @@ public class DateAndTime {
             System.out.printf("\nFormat daty %s :\n",formatDaty);
             System.out.println(date);
         }
+
     }
+
     /**
      * Metoda zamienia date w postaci napisu na LocalDateTime
      * @param dataZPostaciNapisu
